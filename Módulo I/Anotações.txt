@@ -1,0 +1,3 @@
+Lógica de programação - 
+Introdução ao Git e ao Github
+Criando seu primeiro Repositório no Github para compartiljhar seu Progresso
